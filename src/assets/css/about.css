@@ -1,0 +1,126 @@
+h2 {
+    font-weight: 200;
+    font-style: italic;
+    padding: 10pt 5%;
+}
+
+h4 {
+    font-size: 24pt;
+}
+
+.objects {
+    padding: 20pt 2%;
+    background-color: #1c1c1c;
+    border-radius: 10pt;
+}
+
+.objects ol {
+    display: flex;
+    flex-wrap: wrap;
+
+    text-align: center;
+
+    font-size: 36pt;
+    font-weight: 300;
+
+    margin-left: 10pt;
+    margin-top: 20pt;
+}
+
+.objects h1 {
+    font-weight: 300;
+}
+
+.object {
+    background-color: #1a1a1a;
+
+    border-radius: 20pt;
+    border: 2pt solid #202020;
+
+    max-width: 440pt;
+
+    margin: 10pt 25pt;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10pt 2%;
+}
+
+.object img {
+    width: 100%;
+    border-radius: 10pt;
+}
+
+.content {
+    margin: 0 1%;
+    margin-bottom: 20pt;
+    padding: 0 1%;
+}
+
+.basic-info p {
+    padding: 2%;
+    padding-top: 10pt;
+    padding-bottom: 15pt;
+
+    margin: 0 10pt;
+    text-indent: 1em;
+    font-weight: 200;
+}
+
+button {
+    background-color: #1f1f1f;
+
+    border: #171717 solid 3pt;
+    border-radius: 20pt;
+
+    padding: 1% 2%;
+
+    transition: all 0.3s;
+}
+
+button:hover {
+    background-color: #303030;
+
+    transition: all .3s;
+}
+
+/* Details */
+.object-details {
+    background-color: #1c1c1c;
+    border: 2pt solid #202020;
+    border-radius: 10pt;
+
+    position: fixed;
+    overflow-x: hidden;
+    white-space: normal;
+
+    top: 10%;
+
+    max-height: 80%;
+
+    padding: 2%;
+
+    margin: 0 5%;
+}
+
+.object-details-subtitle {
+    padding-left: 3%;
+}
+
+.object-details-text {
+    padding: 5pt 5%;
+    text-indent: 1em;
+}
+
+.details-hidden {
+    left: -100%;
+    right: 100%;
+
+    transition: all 1s;
+}
+
+.details-visible {
+    left: 0;
+    right: 0;
+    
+    transition: all 1s;
+}

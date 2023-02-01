@@ -1,0 +1,175 @@
+html, body {
+    margin: 0;
+    overflow-x: hidden;
+    position: absolute;
+    width: 100vw;
+}
+
+body {
+    background-color: #171717;
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+
+    color: white;
+
+    letter-spacing: .6pt;
+}
+
+a {
+    margin: 0;
+    color: white;
+    text-decoration: none;
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14pt;
+}
+
+nav {
+    position: sticky;
+    margin: 0;
+    display: flex;
+}
+
+nav a {
+    background-color: #252525;
+    color: white;
+
+    white-space: nowrap;
+
+    padding: 10pt;
+    width: 110%;
+
+    text-align: center;
+
+    align-self: center;
+
+    transition: all 0.6s;
+}
+
+nav a:hover {
+    background-color: white;
+    color: #171717;
+
+    transform: all 0.6s;
+}
+
+footer {
+    background-color: #1a1a1a;
+    padding: 10pt 5%;
+    width: 100%;
+    display: flex;
+}
+
+.contacts {
+    width: 100%;
+}
+
+.contacts-title {
+    font-weight: 300;
+    padding: 1%;
+}
+
+.contacts-list {
+    margin: 0;
+    font-style: italic;
+}
+
+.copyright {
+    margin: 0;
+    text-align: right;
+
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.contact {
+    margin: 0;
+    font-weight: 200;
+    font-size: 14pt;
+    padding: 0 5%;
+}
+
+.contact-tel {
+    padding: 0 8%;
+    font-size: 16pt;
+    font-weight: 300;
+}
+
+h1 {
+    margin: 0;
+    font-size: 24pt;
+    font-weight: 300;
+}
+
+h2 {
+    margin: 0;
+    font-size: 20pt;
+    font-weight: 300;
+}
+
+h3 {
+    margin: 0;
+    font-size: 18pt;
+    font-weight: 300;
+}
+
+h4 {
+    margin: 0;
+    font-size: 16pt;
+    font-weight: 300;
+}
+
+p {
+    margin: 0;
+    font-size: 16pt;
+    font-weight: 200;
+}
+
+img {
+    margin: 0;
+    font-weight: 200;
+    font-size: 14pt;
+}
+
+ul {
+    margin: 0;
+    list-style-type: none;
+}
+
+ol {
+    margin: 0;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+li {
+    margin: 0;
+}
+
+button {
+    color: white;
+    font-size: 16pt;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin: 0;
+}
+
+.title {
+    text-align: center;
+    font-size: 24pt;
+
+    padding: 20pt 10pt;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 18pt;
+    font-weight: 200;
+    font-style: italic;
+
+    padding: 10pt;
+}
