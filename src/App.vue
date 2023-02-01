@@ -3,7 +3,7 @@
     <router-link to="/">Sākums</router-link>
     <router-link to="/about">Par</router-link>
     <router-link to="/map">Karte</router-link>
-    <router-link to="/orientation">Foto orientēšanās</router-link>
+    <router-link to="/test">Darba lapa</router-link>
   </nav>
 
   <router-view/>

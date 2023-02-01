@@ -2,7 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import AboutView from '@/views/AboutView.vue'
 import MapView from '@/views/MapView.vue'
-import OrientationView from '@/views/OrientationView.vue'
+import OrientationView from '@/views/TestView.vue'
 
 const routes = [
   {
@@ -21,8 +21,8 @@ const routes = [
     component: MapView
   },
   {
-    path: '/orientation',
-    name: 'orientation',
+    path: '/test',
+    name: 'test',
     component: OrientationView
   }
 ]
