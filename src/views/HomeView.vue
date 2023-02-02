@@ -22,52 +22,33 @@
             <div class="object-preview-list">
               <h1 class="object-preview-title">Apskates objekti</h1>
               <ol>
-                <a href="/about#brivibas-piemineklis">
-                  <li class="object-preview">
-                      <h4>Brīvības piemineklis</h4>
-                  </li>
-                </a>
-
-                <a href="/about#pulvertornis">
-                  <li class="object-preview">
-                    <h4>Pulvertornis</h4>
-                  </li>
-                </a>
-                <a href="/about#jekaba-kazarmas">
-                  <li class="object-preview">
-                    <h4>Jēkaba kazarmas</h4>
-                  </li>
-                </a>
-                <a href="/about#muris-varti">
+                <li class="object-preview">
+                    <h4>Brīvības piemineklis</h4>
+                </li>
+                <li class="object-preview">
+                  <h4>Pulvertornis</h4>
+                </li>
+                <li class="object-preview">
+                  <h4>Jēkaba kazarmas</h4>
+                </li>
                 <li class="object-preview">
                   <h4>Vecrīgas mūris — Zviedru vārti</h4>
                 </li>
-                </a>
-                <a href="/about#rigas-pils">
-                  <li class="object-preview">
-                    <h4>Rīgas pils</h4>
-                  </li>
-                </a>
-                <a href="/about#tris-brali">
-                  <li class="object-preview">
-                    <h4>Trīs brāļi</h4>
-                  </li>
-                </a>
-                <a href="/about#rigas-doms">
-                  <li class="object-preview">
-                    <h4>Rīgas doms</h4>
-                  </li>
-                </a>
-                <a href="/about#melngalvju-nams">
-                  <li class="object-preview">
-                    <h4>Melngalvju nams</h4>
-                  </li>
-                </a>
-                <a href="/about#peterbaznica">
-                  <li class="object-preview">
-                    <h4>Rīgas Sv. Pētera baznīca</h4>
-                  </li>
-                </a>
+                <li class="object-preview">
+                  <h4>Rīgas pils</h4>
+                </li>
+                <li class="object-preview">
+                  <h4>Trīs brāļi</h4>
+                </li>
+                <li class="object-preview">
+                  <h4>Rīgas doms</h4>
+                </li>
+                <li class="object-preview">
+                  <h4>Melngalvju nams</h4>
+                </li>
+                <li class="object-preview">
+                  <h4>Rīgas Sv. Pētera baznīca</h4>
+                </li>
               </ol>
             </div>
 
