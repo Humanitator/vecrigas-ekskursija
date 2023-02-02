@@ -37,7 +37,7 @@ p {
     padding: 20pt 5%;
 }
 
-/* Objects */
+/* Info */
 
 .object-preview-title {
     font-size: 30pt;
@@ -47,11 +47,19 @@ p {
 .basic-info {
     display: flex;
     flex-wrap: wrap;
+    white-space: normal;
 }
 
 .info-text {
     margin: auto;
-    max-width: 600pt;
+    overflow-wrap: normal;
+    width: 100%;
+}
+
+@media (orientation: landscape) {
+    .info-text {
+        max-width: 50%;
+    }
 }
 
 .object-preview {
