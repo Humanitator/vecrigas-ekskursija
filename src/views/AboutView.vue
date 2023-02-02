@@ -423,11 +423,9 @@
                 </ol>
             </div>
         </div>
-        
-        
     </div>
 </template>
 
-<style scoped>
+<style scoped lang="scss">
   @import '@/assets/css/about.css';
 </style>

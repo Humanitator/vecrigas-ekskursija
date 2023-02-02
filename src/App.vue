@@ -6,6 +6,11 @@
     <router-link to="/test">Darba lapa</router-link>
   </nav>
 
+  <!-- Copyright is actually at bottom, but this fixes element stacking -->
+  <div class="copyright">
+      <h2>© 2023 Andris Seļāvo, Eduards Vugulis, Jānis Ozols, Kaspars Sikora, Raivo Rainsons, Rūdolfs Alainis</h2>
+  </div>
+
   <router-view/>
 
   <footer>
@@ -32,12 +37,9 @@
         </li>
       </ul>
     </div>
-    <div class="copyright">
-      <h2>© 2023 Andris Seļāvo</h2>
-    </div>
   </footer>
 </template>
 
-<style>
+<style lang="scss">
   @import '@/assets/css/base.css';
 </style>
