@@ -79,7 +79,7 @@
                 <ol class="question-list">
                     <li class="question">
                         <p>Cik cilvēku tēli ir iekalti Brīvības piemineklī?</p>
-                        <p class="answer"></p>
+                        <p class="answer">55</p>
                     </li>
                     <li class="question">
                         <p>Cik lielgabalu lādiņi ir iemūrēti Pulvertornī?</p>
@@ -111,7 +111,7 @@
                     </li>
                     <li class="question">
                         <p>Kādi gadskaitļi ir redzami virs astronomiskā pulksteņa Melngalvja nama priekšpusē?</p>
-                        <p class="answer">1334 un 1999</p>
+                        <p class="answer">1334. un 1999.</p>
                     </li>
                     <li class="question">
                         <p>Cik galvenās ieejas ir Rīgas Sv. Pētera baznīcai? </p>

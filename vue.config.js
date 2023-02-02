@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/vecrigas-orientesanas/'
+    publicPath: '/vecrigas-ekskursija/'
 }
