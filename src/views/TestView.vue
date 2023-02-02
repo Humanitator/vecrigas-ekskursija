@@ -13,7 +13,7 @@
     }
 
     onMounted(() => {
-        document.title = "Vecrīgas Ekskursija | Foto orientēšanās"
+        document.title = "Vecrīgas Ekskursija | DL"
     })
 </script>
 
