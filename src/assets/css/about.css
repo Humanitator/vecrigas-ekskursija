@@ -99,7 +99,8 @@ button:hover {
     overflow-x: hidden;
     white-space: normal;
 
-    top: 10%;
+    top: 5%;
+    bottom: 5%;
 
     max-height: 80%;
 
